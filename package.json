@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/paterlinimatias/WebRTC-Experiment/issues"
   },
-  "homepage": "https://github.com/paterlinimatias/WebRTC-Experiment#readme"
+  "homepage": "https://github.com/paterlinimatias/WebRTC-Experiment#readme",
+"engines": {
+    "node": "6.10.3"
+  },
+
 }
