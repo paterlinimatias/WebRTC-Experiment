@@ -22,5 +22,11 @@
   "homepage": "https://github.com/paterlinimatias/WebRTC-Experiment#readme",
   "engines": {
     "node": "6.10.3"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
   }
 }
